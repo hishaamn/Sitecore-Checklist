@@ -1,0 +1,33 @@
+﻿.sc-demo-tilelist-image {
+    float: left;
+    margin-right: 15px;
+}
+
+.sc-demo-tilelist-text {
+    display: inline-block;
+    white-space: normal;
+}
+
+.sc-listcontrol.sc-tilelist .sc-listcontrol-tiles .sc-listcontrol-tile .sc-listcontrol-tile-content {
+    width: 100%;
+    border: 0px
+}
+
+.sc-ValueLabel {
+    width: 100%;
+    display: grid
+}
+
+.sc-ValueLabel-Row {
+    align-content: center;
+    display: grid
+}
+
+.sc-tilelist {
+    width: 100%
+}
+
+.sc-listcontrol-tiles {
+    width: 100%;
+    display: inline-flex;
+}
